@@ -1,0 +1,4 @@
+//Basic algo for making todo in MERN stack
+
+
+1)
